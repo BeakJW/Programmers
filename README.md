@@ -1,2 +1,2 @@
-# SQL-Programmers
-Database 코딩 테스트
+# Programmers
+Database&Python 코딩 테스트
